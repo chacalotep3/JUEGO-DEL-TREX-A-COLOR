@@ -1,2 +1,1 @@
-# JUEGO-DEL-TREX-A-COLOR
-¡¡¡¡¡JUEGO DEL TREX A COLOR!!!!
+# Juegos-compatibles-con-dispositivos
